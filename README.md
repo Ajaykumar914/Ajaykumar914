@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Full Stack Web Developer | Java Developer
+Computer Science Engineering Student | Java Developer | DSA learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Java+Developer;React+Developer;Learning+DSA+in+Java;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Learning+DSA+in+Java;Web+Development+Learner;Learning+Full+Stack+Development;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -14,11 +14,13 @@ Computer Science Engineering Student | Full Stack Web Developer | Java Developer
 
 🎓 B.Tech Computer Science Engineering Student
 
-💻 Passionate Full Stack Web Developer
+💻 Interested in Software Development and Java Development
 
 🌱 Currently learning **Data Structures & Algorithms in Java**
 
-🚀 Interested in **Web Development, Backend Development, and Software Engineering**
+🌐 Learning Full Stack Web Development
+
+🚀 Interested in ** Backend Development, and Software Engineering**
 
 🏆 Hackathon Participant
 
@@ -43,27 +45,9 @@ https://www.linkedin.com/in/ajay-kumar-684760294/
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-
----
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
@@ -77,15 +61,39 @@ https://www.linkedin.com/in/ajay-kumar-684760294/
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 ---
 
 # 🚀 Featured Projects
+🎓 Student Management System
+
+A Java-based Student Management System that manages student records using file handling and MySQL database integration.
+
+## Technologies
+• Java
+• MySQL
+• JDBC
+• SQL
+• Git & GitHub
 
 ---
 
-## 🏥 Healthcare Plus
+💼 Internship
+Steel Authority of India Limited (SAIL)
 
-Healthcare Management Platform developed during a Hackathon with modules for OPD Queue, Appointment Booking, Inventory Management and Patient Records.
+Completed an internship at SAIL, gaining practical exposure to a professional working environment and technical processes.
+
+--- 
+
+🎯 Career Goal
+
+I am working towards becoming a skilled Software Engineer, with a strong foundation in Java, DSA, databases, and web development.
+
+---
+
+🔗 GitHub:
+https://github.com/Ajaykumar914
 
 ---
 
@@ -117,11 +125,6 @@ Healthcare Management Platform developed during a Hackathon with modules for OPD
 
 ---
 
-# 📈 Contribution Graph
-
-[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajaykumar914&theme=tokyo-night)](https://github.com/Ajaykumar914)
-
----
 
 # 🌐 Connect With Me
 
