@@ -97,35 +97,6 @@ https://github.com/Ajaykumar914
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ajaykumar914&show_icons=true&theme=tokyonight" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Ajaykumar914&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar914&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ajaykumar914&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-
 # 🌐 Connect With Me
 
 <p align="center">
